@@ -5,7 +5,7 @@ MyWellness Tracker is an Android mobile application designed to help users monit
 
 Problem Addressed
 
-Many individuals find it challenging to maintain emotional and mental health due to a lack of consistent tools for reflection and tracking. MyWellness Tracker addresses this by offering a unified platform where users can document and analyze their mood, habits, and journal entries—all in one place.
+Many individuals find it challenging to maintain emotional and mental health due to a lack of consistent tools for reflection and tracking. MyWellness Tracker addresses this by offering a unified platform where users can document and analyze their mood, habits, and journal entries all in one place.
 
 Platform
 
@@ -54,5 +54,5 @@ Settings Page
 
 GitHub Resources
 
-GitHub Repository: [Insert GitHub repo link here]
-GitHub Wiki: [Insert GitHub Wiki link here]
+GitHub Repository: 
+GitHub Wiki:

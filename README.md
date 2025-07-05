@@ -54,5 +54,5 @@ Settings Page
 
 GitHub Resources
 
-GitHub Repository: 
+GitHub Repository: https://github.com/eleiny8/MyWellness-Tracker
 GitHub Wiki:

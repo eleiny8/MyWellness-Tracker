@@ -56,3 +56,26 @@ GitHub Resources
 
 GitHub Repository: https://github.com/eleiny8/MyWellness-Tracker
 GitHub Wiki: https://github.com/eleiny8/MyWellness-Tracker.wiki.git
+
+## Version Changelog
+
+### Week 3 - Initial Setup
+- Created project repository.
+- Drafted project outline and defined main features.
+- Identified tools (Firebase, SQLite, Kotlin/Java) and UI design approach.
+
+### Week 5 - Update
+- Implemented Firebase Authentication for user login/registration.
+- Created initial wireframes and app layout structure.
+- Developed splash screen and login/signup screens.
+
+### Week 6 - Update (Current)
+- Built mood tracking and daily journal entry UI.
+- Integrated Firebase Realtime Database for saving mood and journal data.
+- Created navigation between the home dashboard and tracker pages.
+- Uploaded updated wireframes to the `/design` folder.
+
+### Week 7 - Planned
+- Complete habit tracker logic and dashboard charts.
+- Finalize the settings screen.
+- Conduct testing and publish the final APK to GitHub.

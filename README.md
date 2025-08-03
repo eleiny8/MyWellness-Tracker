@@ -1,81 +1,86 @@
-# MyWellness-Tracker
-Project Description
+# MyWellness Tracker
 
-MyWellness Tracker is an Android mobile application designed to help users monitor and enhance their mental and emotional wellness. The app combines features like mood tracking, daily journaling, and habit monitoring in a simple, user-friendly interface. It aims to promote self-awareness and wellness insights through intuitive data visualization and personalized reminders.
+## Project Description
 
-Problem Addressed
+**MyWellness Tracker** is an Android mobile application designed to help users monitor and enhance their mental and emotional wellness. It combines features like mood tracking, daily journaling, and habit monitoring in a simple, user-friendly interface. The app promotes self-awareness through data visualization and personalized reminders.
 
-Many individuals find it challenging to maintain emotional and mental health due to a lack of consistent tools for reflection and tracking. MyWellness Tracker addresses this by offering a unified platform where users can document and analyze their mood, habits, and journal entries all in one place.
+---
 
-Platform
+## Problem Addressed
 
-Mobile OS: Android
-Target Devices: Android smartphones (Android 10+)
-IDE: Android Studio
-Language: Kotlin / Java
+Many individuals struggle to maintain emotional and mental health due to the lack of consistent tools for self-reflection and tracking. This app provides a unified platform to document, visualize, and analyze mood, habits, and journal entries.
 
-Front-End / Back-End Support
+---
 
-Front-End:
+## Platform
 
-XML layout design
-Material Design UI components
-Kotlin/Java logic
+- **OS:** Android 10+
+- **Target Devices:** Android smartphones
+- **IDE:** Android Studio
+- **Languages:** Kotlin / Java
 
-Back-End:
+---
 
-Firebase Authentication
-Firebase Realtime Database
-Firebase Cloud Storage
-SQLite for offline functionality
+## Technologies Used
 
-Functionality
+### Front-End
+- XML Layouts
+- Material Design
+- Kotlin/Java Logic
 
-User account registration and login
-Mood tracking with emoji/color selection
-Daily journaling with save/edit/delete features
-Habit tracker with customizable checklists and reminders
-Insight dashboard with charts and graphs to track progress
-Sync functionality using Firebase
-User settings and customization options
+### Back-End
+- **Firebase Authentication** – secure user login
+- **Firebase Realtime Database** – cloud-based data sync
+- **Firebase Cloud Storage** – media and file storage
+- **SQLite** – local/offline data storage
 
-Design (Wireframes)
+---
 
-Screens to be included:
-Splash Screen
-Login/Signup Screen
-Home Dashboard
-Mood Tracker Page
-Journal Entry Page
-Habit Tracker Page
-Insights/Analytics Page
-Settings Page
-(Wireframes will be uploaded as images in the design/ folder of the repository.)
+## Current Functionality (as of Week 6)
 
-GitHub Resources
+- [x] User registration and login with Firebase Authentication  
+- [x] Mood tracker with emoji/color selections  
+- [x] Daily journal page with create/edit/delete support  
+- [x] Habit tracker with customizable lists  
+- [x] Local database via SQLite for offline data  
+- [x] Firebase Realtime Database syncing  
+- [x] Settings page with notification controls  
 
-GitHub Repository: https://github.com/eleiny8/MyWellness-Tracker
-GitHub Wiki: https://github.com/eleiny8/MyWellness-Tracker.wiki.git
+---
 
-## Version Changelog
+## Upcoming Features
 
-### Week 3 - Initial Setup
-- Created project repository.
-- Drafted project outline and defined main features.
-- Identified tools (Firebase, SQLite, Kotlin/Java) and UI design approach.
+- [ ] Data visualization with charts (Insights page)  
+- [ ] Journal export to PDF or cloud  
+- [ ] Additional habit reminder customization  
+- [ ] UI polish and testing for edge cases  
 
-### Week 5 - Update
-- Implemented Firebase Authentication for user login/registration.
-- Created initial wireframes and app layout structure.
-- Developed splash screen and login/signup screens.
+---
 
-### Week 6 - Update (Current)
-- Built mood tracking and daily journal entry UI.
-- Integrated Firebase Realtime Database for saving mood and journal data.
-- Created navigation between the home dashboard and tracker pages.
-- Uploaded updated wireframes to the `/design` folder.
+## Design (Wireframes)
 
-### Week 7 - Planned
-- Complete habit tracker logic and dashboard charts.
-- Finalize the settings screen.
-- Conduct testing and publish the final APK to GitHub.
+- Splash Screen  
+- Login/Signup  
+- Home Dashboard  
+- Mood Tracker  
+- Journal Entry  
+- Habit Tracker  
+- Insights / Analytics  
+- Settings  
+
+> *(Wireframes available in `design/` folder.)*
+
+---
+
+## GitHub Resources
+
+- 🔗 GitHub Repo: [MyWellness-Tracker](https://github.com/eleiny8/MyWellness-Tracker)
+- 📘 GitHub Wiki: [Wiki](https://github.com/eleiny8/MyWellness-Tracker/wiki)
+
+---
+
+## Author
+
+Eleiny Fontanez  
+COM-437-OL01 – Mobile Application Development  
+Saint Leo University  
